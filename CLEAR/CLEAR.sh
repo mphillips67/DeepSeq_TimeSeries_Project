@@ -1,4 +1,4 @@
-#commands used to run CLEAR on sync files with 4, 8, 13, or all 17 timepoints.
+#commands used to run CLEAR on sync files with 4, 8, 13, and 17 timepoints.
 
 python CLEAR.py --sync DS_4_tp.sync --out DS_4_clear_output.out
 
